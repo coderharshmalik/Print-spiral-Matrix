@@ -1,0 +1,27 @@
+
+Here we will print the matrix in spiral order that is,
+first first row then,
+last column then,
+last row then,
+first column and soon.... 
+until spirality continues.
+
+
+APPROACH-
+
+1.take an 2d array from user.
+
+2.we will make four variables for row and column.
+
+3.using while loop we satisfy the condition for spirality.
+
+4.using fo loop for each row and column to print,
+  the vaues of particular cordinates.
+
+5.Make changes in row and column cordinates.
+
+6.ans
+
+
+STEPS ARE ALSO MENTIOD IN CODE. 
+
