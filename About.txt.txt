@@ -1,10 +1,11 @@
 
 Here we will print the matrix in spiral order that is,
-first first row then,
-last column then,
-last row then,
-first column and soon.... 
-until spirality continues.
+1. first row then,
+2.last column then,
+3.last row then,
+4.first column and soon.... 
+5.until spirality continues.
+6.same way we will printing the values of that co ordinates
 
 
 APPROACH-
